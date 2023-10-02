@@ -2,7 +2,7 @@
 A python script to turn PDF files into MP3 files.
 
 ## Idea 💡
-this idea came from **_Tiff In Tech's_**[Automating My Life With Python](https://www.youtube.com/watch?v=LXsdt6RMNfY) YouTube video. 
+this idea came from **_Tiff In Tech's_** [Automating My Life With Python](https://www.youtube.com/watch?v=LXsdt6RMNfY) YouTube video. 
 Since the video was released, a few changes were made to one of the packages used in the script, so I had to do some research and modify them.
 
 ## Installation & Usage 🛠️
