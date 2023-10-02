@@ -32,4 +32,4 @@ If you want to follow me on social media:
 
 Or if you want to contact me:
 - [LinkedIn](https://www.linkedin.com/in/joaquín-cortez/?locale=en_US)
-- [Mail](joaquinlucascortez@gmail.com)
+- joaquinlucascortez@gmail.com
